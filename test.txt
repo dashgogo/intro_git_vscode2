@@ -3,6 +3,10 @@ add textS
 
 add B
 
+HOGE
+
+PIYO
+
 add C
 
 add D
